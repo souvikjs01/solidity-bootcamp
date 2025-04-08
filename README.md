@@ -5,7 +5,7 @@ This repo is a collection of notes, code examples, and mini-projects I’m build
 – the smart contract programming language for Ethereum.
 
 ---
-## 🚀 Why I'm Learning Solidity
+## 🚀 Aim to achieve
 
 - To understand blockchain development
 - To build decentralized applications (DApps)
